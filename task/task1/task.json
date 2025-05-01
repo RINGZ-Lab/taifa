@@ -1,0 +1,26 @@
+
+{
+  "sections": [
+    {
+      "title": "Scenario Details",
+      "content": [
+        {
+          "item": "Scenario",
+          "description": "You and your team have just survived the crash of a small plane. Both the pilot and co-pilot were killed in the crash. It is mid-January, and you are in Northern Canada. The daily temperature is 25 below zero, and the nighttime temperature is 40 below zero. There is snow on the ground, and the countryside is wooded with several creeks criss-crossing the area. The nearest town is 20 miles away. You are all dressed in city clothes appropriate for a business meeting."
+        }
+      ]
+    },
+    {
+      "title": "Salvaged Items",
+      "content": [
+        {"item": "Ball of steel wool", "description": "Can be used to start a fire for warmth and cooking." },
+        {"item": "Small ax", "description": "Useful for cutting wood to build shelter or fuel a fire." },
+        { "item": "Loaded .45-caliber pistol", "description": "Can be used for self-defense or hunting small game." },
+        {"item": "Can of Crisco shortening", "description": "Useful as a source of calories or as a fire starter." },
+        { "item": "Newspapers (one per person)", "description": "Can be used as insulation or kindling for a fire." },
+        {"item": "Cigarette lighter (without fluid)", "description": "Can be used to create sparks for starting a fire." },
+        { "item": "Extra shirt and pants for each survivor", "description": "Useful for layering to prevent hypothermia." }
+      ]
+    }
+  ]
+}

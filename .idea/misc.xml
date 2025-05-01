@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="SlackTeamAIFeedback" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="378aac92-a5d5-427f-b547-c7df0e021233" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="SlackTeamAIFeedback" project-jdk-type="Python SDK" />
+</project>

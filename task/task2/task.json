@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "title": "Scenario Details",
+      "content": [
+        {
+          "item": "Scenario",
+          "description": "You and your team have chartered a yacht with an experienced skipper and a two-person crew. A fire breaks out, destroying much of the yacht and its contents. The yacht is slowly sinking and your location is unclear. The skipper and crew were lost while trying to fight the fire. You are approximately 1000 miles southwest of the nearest landfall."
+        }
+      ]
+    },
+    {
+      "title": "Salvaged Items",
+      "content": [
+        {"item": "Case of army rations", "description": "Food supply for sustenance."},
+        {"item": "2 boxes of chocolate bars", "description": "High-energy food source."},
+        {"item": "5 gallon can of water", "description": "Essential for hydration and survival."},
+        {"item": "20 square feet of opaque plastic sheeting", "description": "Useful for collecting rainwater or as a shelter."},
+        {"item": "Fishing kit", "description": "Can be used to catch fish for food."},
+        {"item": "Shaving mirror", "description": "Can be used for signaling for rescue."},
+        {"item": "2 gallon can of oil/petrol mixture", "description": "Potentially useful for starting fires or signaling."}
+      ]
+    }
+  ]
+}

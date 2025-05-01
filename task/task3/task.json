@@ -1,0 +1,25 @@
+{
+  "sections": [
+    {
+      "title": "Scenario Details",
+      "content": [
+        {
+          "item": "Scenario",
+          "description": "You are a member of a space crew originally scheduled to rendezvous with a mother ship on the lighted surface of the moon. However, due to mechanical difficulties, your ship was forced to land at a spot some 200 miles from the rendezvous point. During reentry and landing, much of the equipment aboard was damaged and, since survival depends on reaching the mother ship, the most critical items available must be chosen for the 200-mile trip."
+        }
+      ]
+    },
+    {
+      "title": "Salvaged Items",
+      "content": [
+        {"item": "Box of matches", "description": "Common matches for starting fires."},
+        {"item": "Food concentrate", "description": "Compact, high-energy food supply."},
+        {"item": "50 feet of nylon rope", "description": "Durable rope for climbing or securing items."},
+        {"item": "Parachute silk", "description": "Can be used as a protective covering or shelter."},
+        {"item": "Two 100 lb. tanks of oxygen", "description": "Essential for breathing in a low-oxygen environment."},
+        {"item": "Stellar map", "description": "Used for navigation and locating the rendezvous point."},
+        {"item": "5 gallons of water", "description": "Crucial for hydration and survival."}
+      ]
+    }
+  ]
+}
