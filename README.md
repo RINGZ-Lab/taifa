@@ -197,14 +197,8 @@ Once you’ve added them:
 ## Slack App Manifest
 
 tAIfa’s Slack App is fully described by the `manifest.json` in the repo root.  
-It includes all the bot scopes, slash-commands, home-tab settings, and event subscriptions needed to run tAIfa out of the box.
+It includes all the bot scopes, slash-commands, home-tab settings, and event subscriptions needed to run tAIfa.
 
-If you want to install or update the app manually:
-
-```bash
-Upload the file at:
-https://github.com/RINGZ-Lab/taifa/manifest.json
-```
 
 
 
