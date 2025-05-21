@@ -213,7 +213,7 @@ If you use **tAIfa** or refer to our work, please cite:
 ```bibtex
 @inproceedings{almutairi2025taifa,
   author    = {Almutairi, Mohammed and Chiang, Charles and Bai, Yuxin and Gomez-Zara, Diego},
-  title     = {tAIfa: Team {AI} Feedback Assistant for Enhancing Team Effectiveness in Slack},
+  title     = {tAIfa: Enhancing Team Effectiveness and Cohesion with AI-Generated Automated Feedback},
   booktitle = {CHIWORK '25: Proceedings of the 4th Annual Symposium on Human-Computer Interaction for Work},
   year      = {2025},
   address   = {Amsterdam, Netherlands},
